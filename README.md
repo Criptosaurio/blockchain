@@ -23,7 +23,7 @@ command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/seanseany/blockchain
+$ git clone https://github.com/criptosaurio/blockchain
 
 # Go into the repository
 $ cd blockchain
